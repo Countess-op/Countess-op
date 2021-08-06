@@ -1,5 +1,7 @@
-Hi! I am Countess
 
+
+<h1 align="center">Hey! I am Countess</h1>
+<h3 align="center">I am from India!</h3>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Countess-op&show_icons=true&theme=dracula)
 
@@ -8,9 +10,6 @@ Hi! I am Countess
 
 
 Contact me :- wm705918@gmail.com
-
-<h1 align="center">Hey! I am Countess</h1>
-<h3 align="center">I am from India!</h3>
 
 - Join [My server](https://discord.gg/y9XFd99A)
 
